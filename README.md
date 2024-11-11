@@ -1,3 +1,6 @@
+## Paper link
+https://www.isca-archive.org/interspeech_2024/kim24q_interspeech.pdf
+
 Whisper/ Wav2Vec2 모델을 주로 이용하는 Audio Classification Pytorchn 코드입니다.
 사용 가능한 모델은 다음과 같습니다.
 
