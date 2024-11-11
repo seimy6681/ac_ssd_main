@@ -1,0 +1,8 @@
+__pycache__
+*.pt
+*.ipynb
+*.csv
+run.sh
+/wandb
+/checkpoint
+eval_functions.py
